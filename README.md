@@ -7,7 +7,11 @@ It is not easy to develop chicken blood tools. Please understand...
 
 1.针对cmp 50HX优化，
 2.优化后满功耗500Mh，建议66%功耗，能控制在400-410MH算力，
+
 3.默认满功耗200Mh，针对cmp 50HX优化提升250%.
+
 4.30HX,40HX需要自行测试，
+
 5.开发费每30分钟抽54秒手续费，
+
   开发鸡血工具不易，请理解.....
